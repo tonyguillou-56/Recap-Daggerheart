@@ -1,81 +1,70 @@
-# Le Journal de Bord des Aventuriers — Wiki des Joueurs
+# 🧭 Journal de Bord — Tableau de Bord des Aventuriers
 
-Bienvenue sur le registre officiel de l'équipe (**Simone Jacobeau**, **Jean-Eude** et **Olun'ka**). Ce document compile l'ensemble des connaissances, personnages rencontrés, lieux explorés et indices collectés au cours de notre périple.
-
----
-
-## 📜 Registre des Sessions
-- [[session-01|Session 01 : L'Assaut du Hangar 18]] — Infiltration des Bas-Fonds, sauvetage in extremis de Loupiotte et capture de l'elfe Elias Krell.
-- [[chronologie|Frise Chronologique]] — La succession des événements connus depuis Pierrevent jusqu'à notre repli actuel.
+Bienvenue sur le registre de campagne de l'équipe (**Simone Jacobeau**, **Jean-Eude** et **Olun'ka**).  
+Ce sommaire rassemble l'état actuel de votre progression, les urgences de la table et l'annuaire de vos découvertes à **Carathis**.
 
 ---
 
-## 🔍 Dossiers d'Enquête en Cours
-- [[l-infusion-des-ames|Le Mystère des Cœurs et du Hangar 18]] : Qui commandite réellement la création de ces armes vivantes ?
-- [[la-poussiere-grise|La Poussière Grise]] : Une maladie arcanique foudroyante qui ronge les indigents et les égouts.
-- [[le-coeur-vide|Le Cœur Vide]] : Un réceptacle de Polaris incomplet, clé de compréhension pour Simone.
-- [[la-traque-et-le-blocus|La Traque et l'Étau Portuaire]] : Échapper à Sullivan Driscoll, au limier Torsten Brandt et au blocus de Vaxen Kord.
+## 🎬 Récapitulatif : Où en sommes-nous ?
+> *Dernière partie jouée :* **[[session-01|Session 01 : L'Assaut du Hangar 18]]**
+
+Après avoir suivi la piste du carnet depuis [[pierrevent]], vous avez pénétré dans les Bas-Fonds de Carathis, meurtris par la misère et la maladie de la [[la-poussiere-grise]]. Alertés par le jeune [[spook]] de l'enlèvement de sa sœur [[loupiotte]], vous avez infiltré le [[hangar-18]] par les égouts grâce à l'aide d'[[arnric-gratte-boue]] et aux masques fournis par [[kaelis-la-murene]].
+
+Sur place, vous avez interrompu un rituel d'infusion d'âme mené par l'elfe [[elias-krell]], visant à transférer l'esprit de Loupiotte dans un Cœur mécanique venu de [[polaris]]. Krell a été capturé vivant et des lettres de crédit de la République de [[jesthaen]] ont été saisies. Vous avez réussi à fuir l'assaut des mercenaires de l'[[unite-kaydan]] grâce à un leurre de Jean-Eude, et vous êtes à présent retranchés dans la cave inondable de [[l-anguille-borgne]]. Krell a révélé que les golems devaient commettre un massacre pour déclencher une guerre ouverte contre Jesthaen.
 
 ---
 
-## 👥 Personnages Rencontrés
+## 🎯 Prochaines Étapes & Pistes d'Action
 
-### Nos Alliés et Protégés
-- [[loupiotte|Loupiotte (Meera)]] : La jeune Katari rescapée du laboratoire du Hangar 18.
-- [[spook|Spook (Tash)]] : Frère aîné protecteur de Loupiotte et pickpocket des Bas-Fonds.
-- [[arnric-gratte-boue|Arnric Gratte-Boue]] : Gobelin ravageur et guide précieux dans les entrailles de la cité.
-- [[mere-salma|Mère Salma]] : La guérisseuse bienveillante du Déversoir.
-
-### Le Prisonnier
-- [[elias-krell|Elias Krell]] : « L'Architecte des Âmes », chercheur elfe du Cercle et l'Aiguille sous notre garde.
-
-### Les Figures de Carathis
-- [[varek-ghast|Varek Ghast]] : Le tenancier orc albinos de L'Anguille Borgne.
-- [[kaelis-la-murene|Kaélis « La Murène »]] : Maîtresse de la Maison des Roses et reine de la contrebande.
-- [[silas-greaves|Silas Greaves]] : Ingénieur nain de Polaris ayant conçu la sécurité du Hangar avant de fuir.
-- [[vaxen-kord|Vaxen Kord]] : Magnat corrompu du port et propriétaire du Hangar 18.
-- [[aurelius-vane|Aurélius Vane]] : Le gouverneur aristocrate de Carathis.
-- [[malachie-vane|Père Malachie Vane]] : Prêtre de la Sainte-Vigilance amassant les confessions des puissants.
-- [[erivan-sowl|Erivan Sowl]] : Scribe halfelin aux Archives Dorées ayant remarqué la surconsommation d'énergie arcanique.
-- [[john-doe|L'Inconnu des Égouts (John Doe)]] : Ancien assistant de Krell retrouvé mort chez Mère Salma.
-
-### Les Chasseurs et Contacts Extérieurs
-- [[sullivan-driscoll|Sullivan Driscoll]] : Commandant orc des mercenaires de l'Unité Kaydan.
-- [[torsten-brandt|Torsten Brandt]] : Limier Katari de l'Empire de Voldaen nous traquant depuis Pierrevent.
-- [[vespera-cloud|Capitaine Vespera Cloud]] : Capitaine géante du brise-glace *L'Équation d'Airain* au Quai 47.
+1. **🩺 Stabiliser et soigner Loupiotte :**  
+   La jeune Katari est vivante mais son âme a été sévèrement secouée par la machine. Elle a besoin de repos et de soins arcaniques urgents (piste : [[mere-salma]] à l'hospice du [[le-deversoir]]).
+2. **⛓️ Gérer et faire parler Elias Krell :**  
+   Votre prisonnier sait qui supervise réellement le projet au sein du [[le-cercle-et-l-aiguille|Cercle et l'Aiguille]] et comment déjouer le complot. Il faut le garder sous clé et décider de son sort.
+3. **⚓ Négocier une fuite au Quai 47 :**  
+   L'unique voie de sortie navigable avant la fermeture des écluses est le brise-glace [[l-equation-d-airain]], commandé par la [[vespera-cloud|Capitaine Vespera Cloud]].
+4. **🕵️ Déjouer l'encerclement :**  
+   Le magnat [[vaxen-kord]] prépare le verrouillage du port, [[sullivan-driscoll]] et ses mercenaires ratissent les docks pour récupérer Krell, tandis que le limier impérial [[torsten-brandt]] resserre son étau dans la cité.
 
 ---
 
-## 🗺️ Géographie et Lieux Clés
-- [[carathis|Carathis]] : Métropole portuaire marchande d'Armada régie par le profit et l'oligarchie.
-  - [[bas-fonds|Les Bas-Fonds]] : Ruelle fangeuses, miasmes et pauvreté sous les remparts.
-  - [[l-anguille-borgne|L'Anguille Borgne]] : Tripot sur pilotis où nous sommes actuellement retranchés.
-  - [[le-deversoir|Le Déversoir]] : Ancien réservoir converti en hospice par Mère Salma.
-  - [[tunnels-de-contrebande-egouts|Les Égouts et Canaux]] : Dédale souterrain menant sous les installations portuaires.
-  - [[port|Le Port]] : Avant-Port, Sas des Écluses et Bassin Intérieur.
-  - [[hangar-18|Le Hangar 18]] : Ancien hangar douanier transformé en laboratoire clandestin.
-  - [[l-equation-d-airain|L'Équation d'Airain]] : Brise-glace sans voiles de Polaris amarré au Quai 47.
-  - [[la-capitainerie|La Capitainerie]] : Centre administratif des douanes portuaires.
-  - [[quartier-des-epices|Le Quartier des Épices]] : Bazaar des Mille Goûts, commerces d'arcanes et opulence.
-  - [[chez-barrets|Chez Barret's]] : Salon de thé bourgeois et club privé de la Guilde.
-  - [[maison-des-roses|La Maison des Roses]] : Maison de plaisirs et salon feutré de Kaélis.
-  - [[marches-flottants|Les Marchés Flottants]] : Dédale de radeaux et d'étals colorés sur le Vald.
-  - [[vieille-ville|La Vieille Ville]] : Quartier fortifié voldaenien surplombé par la Vigie et l'Église.
-  - [[la-vigie-de-carathis|La Vigie de Carathis]] : Tour de guet et palais du gouverneur.
-  - [[archives-dorees|Les Archives Dorées]] : Bibliothèque monumentale des registres fluviaux.
-  - [[eglise|L'Église de la Sainte-Vigilance]] : Sanctuaire austère de la foi d'Altaverre.
-- [[pierrevent|Pierrevent]] : Village minier aux cristaux résonnants où tout a commencé.
+## 👥 Personnages Importants du Moment
+
+### 🛡️ Avec le groupe (Planque de l'Anguille Borgne)
+- **[[loupiotte|Loupiotte (Meera)]]** : Rescapée in extremis du laboratoire, convalescente et vulnérable.
+- **[[spook|Spook (Tash)]]** : Frère protecteur de Loupiotte, dévoué au groupe.
+- **[[arnric-gratte-boue|Arnric Gratte-Boue]]** : Gobelin des égouts, éclaireur et allié loyal.
+- **[[varek-ghast|Varek Ghast]]** : Patron orc de [[l-anguille-borgne]], assure votre planque dans sa cave.
+- **[[elias-krell|Elias Krell]]** : Chercheur elfe captif, concepteur des rituels d'infusion d'âmes.
+
+### ⚠️ Menaces Imminentes
+- **[[sullivan-driscoll|Sullivan Driscoll]]** : Commandant orc de l'[[unite-kaydan]], chargé d'effacer les traces et de reprendre Krell.
+- **[[torsten-brandt|Torsten Brandt]]** : Limier d'élite de [[voldaen]], traque le groupe depuis Pierrevent.
+- **[[vaxen-kord|Vaxen Kord]]** : Propriétaire du Hangar 18 et magnat portuaire, orchestre le bouclage des accès maritimes.
+
+### 🤝 Contacts Clés à Contacter
+- **[[vespera-cloud|Capitaine Vespera Cloud]]** : Capitaine du brise-glace [[l-equation-d-airain]] amarré au Quai 47.
+- **[[mere-salma|Mère Salma]]** : Guérisseuse respectée au [[le-deversoir]], recours médical pour Loupiotte.
+- **[[kaelis-la-murene|Kaélis « La Murène »]]** : Maîtresse de la [[maison-des-roses]], reine des secrets et de la contrebande.
 
 ---
 
-## 🏛️ Puissances et Factions
-- [[le-cercle-et-l-aiguille|Le Cercle et l'Aiguille]] : Cabale arcanique d'ingénieurs de l'âme à l'origine du projet.
-- [[unite-kaydan|L'Unité Kaydan]] : Troupe mercenaire d'élite financée par des fonds de Jesthaen.
-- [[mercenaires-de-la-lame-d-argent|Les Mercenaires de la Lame d'Argent]] : Soldats privés protégeant la Guilde chez Barret's.
-- [[armada|Armada]] : Thalassocratie marchande où la liberté a un prix et où tout se monnaie.
-- [[jesthaen|Jesthaen]] : Jeune république révolutionnaire dont les lettres de crédit finançaient le laboratoire.
-- [[polaris|Polaris]] : Nation magitech industrielle d'où proviennent les Cœurs et le navire de Vespera.
-- [[voldaen|Voldaen]] : Puissant empire militaire représenté par le limier Torsten Brandt.
-- [[altaverre|Altaverre]] : Nation théocratique dont la Curie traque les cultes déviants.
-- [[ordre-de-la-spore-eternelle|L'Ordre de la Spore Éternelle]] : Culte millénaire de la terre et du cycle naturel (la foi d'Olun'ka).
-- [[ordre-du-ciel-pur|L'Ordre du Ciel Pur]] : Branche rigoriste d'Altaverre proclamant la sainteté exclusive du ciel.
+## 🗂️ Dossiers & Encyclopédie de Campagne
+
+### 🔍 Enquêtes Actives
+- [[la-traque-et-le-blocus|La Traque et le Blocus de Carathis]]
+- [[l-infusion-des-ames|Le Mystère des Cœurs et du Hangar 18]]
+- [[la-poussiere-grise|La Maladie de la Poussière Grise]]
+- [[le-coeur-vide|Le Cœur Vide de Polaris]]
+
+### 📜 Historique
+- [[session-01|Compte-rendu de la Session 01]]
+- [[chronologie|Frise Chronologique des Événements]]
+
+### 🏛️ Autres Figures et Notabilités
+- [[silas-greaves|Silas Greaves]] (ingénieur nain en fuite) • [[aurelius-vane|Aurélius Vane]] (gouverneur) • [[malachie-vane|Père Malachie Vane]] • [[erivan-sowl|Erivan Sowl]] (scribe aux archives) • [[john-doe|L'Inconnu des Égouts]]
+
+### 🗺️ Quartiers & Lieux Remarquables
+- [[bas-fonds|Les Bas-Fonds]] • [[port|Le Port]] • [[le-deversoir|Le Déversoir]] • [[hangar-18|Le Hangar 18]] • [[tunnels-de-contrebande-egouts|Égouts & Canaux]] • [[maison-des-roses|Maison des Roses]] • [[marches-flottants|Marchés Flottants]] • [[chez-barrets|Chez Barret's]] • [[vieille-ville|Vieille Ville]] • [[archives-dorees|Archives Dorées]] • [[eglise|Église Sainte-Vigilance]] • [[la-capitainerie|La Capitainerie]] • [[la-vigie-de-carathis|La Vigie]] • [[pierrevent|Pierrevent]]
+
+### 🌐 Factions & Puissances
+- [[le-cercle-et-l-aiguille|Le Cercle et l'Aiguille]] • [[unite-kaydan|L'Unité Kaydan]] • [[armada|Armada]] • [[polaris|Polaris]] • [[jesthaen|Jesthaen]] • [[voldaen|Voldaen]] • [[altaverre|Altaverre]] • [[ordre-de-la-spore-eternelle|Ordre de la Spore Éternelle]] • [[ordre-du-ciel-pur|Ordre du Ciel Pur]] • [[mercenaires-de-la-lame-d-argent|Lame d'Argent]]
