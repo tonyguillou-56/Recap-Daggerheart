@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: fr-FR
-  baseUrl: tonyguillou-56.github.io/Carathis-joueurs
+  baseUrl: tonyguillou-56.github.io/Recap-Daggerheart
   ignorePatterns:
     - private
     - templates
